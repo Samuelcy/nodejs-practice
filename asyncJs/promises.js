@@ -45,7 +45,7 @@ const getUser = (name) => {
 (
     async () => {
         try {
-            const movie = getMovie(5);
+            const movie = await getMovie(5);
             const review = await getReview(movie.id);
             const user = await getUser(review.reviewer);
         } catch (err) {
