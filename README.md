@@ -8,6 +8,6 @@ Certificate no: UC-X
 * [nodeJS basics](https://github.com/Samuelcy/nodejs-practice/tree/main/nodeJsBasics)
 * [asyncJS](https://github.com/Samuelcy/nodejs-practice/tree/main/asyncJs)
 * [coreModules](https://github.com/Samuelcy/nodejs-practice/tree/main/coreModules)
-* [Movie App](https://github.com/Samuelcy/movie-app/tree/main)
+* [Movie App](https://github.com/Samuelcy/movie-app/tree/main) (using MongoDB and Express.js)
 
 Happy coding!
