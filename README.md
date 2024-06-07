@@ -5,5 +5,8 @@ Welcome to my Node.js practice repository! This repository contains all the node
 Certificate no: UC-X
 
 ## Projects
+* [nodeJS basics](https://github.com/Samuelcy/nodejs-practice/tree/main/nodeJsBasics)
+* [asyncJS](https://github.com/Samuelcy/nodejs-practice/tree/main/asyncJs)
+* [coreModules]([ttps://github.com/Samuelcy/typescript-practice/tree/main/todo](https://github.com/Samuelcy/nodejs-practice/tree/main/coreModules))
 
 Happy coding!
