@@ -8,7 +8,6 @@ Certificate no: UC-1e978df6-ce70-4837-90a-d37efe8f75db (6/7/24)
 * [nodeJS basics](https://github.com/Samuelcy/nodejs-practice/tree/main/nodeJsBasics)
 * [asyncJS](https://github.com/Samuelcy/nodejs-practice/tree/main/asyncJs)
 * [coreModules](https://github.com/Samuelcy/nodejs-practice/tree/main/coreModules)
-* [Movie Project App](https://github.com/Samuelcy/movie-app/tree/main) (using MongoDB and Express.js)
 
 ## Course Overview
 Unlock the power of Node.js and TypeScript with this comprehensive course. This course covers:
